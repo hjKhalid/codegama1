@@ -1,0 +1,62 @@
+body {
+    /* margin: 4rem; */
+    width: 1120px;
+    height: 720px;
+    background-image: url(./image/Copy\ of\ bg-cover.png);
+}
+
+.collection {
+    margin: 10rem;
+    background-image: url(./image/bg-cover.png);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-content: center;
+    justify-items: center;
+    justify-content: baseline;
+    padding-left: 12rem;
+    /* width: 1152px;
+    height: 720px; */
+}
+
+img {
+    width: 10rem;
+    justify-content: center;
+    padding-left: 2rem;
+    /* justify-content: space-between; */
+
+}
+
+.card {
+    align-items: center;
+    padding: 2rem;
+    
+    size: 1152px 720px;
+}
+
+h5 {
+    text-align: center;
+
+}
+
+h2 {
+    font-style: italic;
+}
+
+.head-des {
+    font-style: italic;
+}
+
+.heading {
+    padding-top: 0.5rem;
+}
+
+.card-body {
+    text-align: center;
+}
+
+:hover #card1 {
+    background-image: url(./image/wheel-bg.jpg);
+    /* width: 10rem; */
+    zoom: 120%;
+}
